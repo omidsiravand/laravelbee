@@ -1,0 +1,15 @@
+<section id="sli" class="mt-5 pb-5">
+    <div id="wowslider-container1">
+        <div class="ws_images"><ul>
+            <li><img src="{{asset('front/slider/data1/images/aestheticbeecollageblendingdifferentbeerelatedelementsintoavisuallypleasingcomposition1536x861.jpg')}}" alt="Aesthetic-bee-collage-blending-different-bee-related-elements-into-a-visually-pleasing-composition-1536x861" title="Aesthetic-bee-collage-blending-different-bee-related-elements-into-a-visually-pleasing-composition-1536x861" id="wows1_0"/></li>
+            <li><img src="{{asset('front/slider/data1/images/artisticdepictionofbeesinflightsurroundedbybotanicalelementsandvibrantcolors1536x861.jpg')}}" alt="Artistic-depiction-of-bees-in-flight-surrounded-by-botanical-elements-and-vibrant-colors-1536x861" title="Artistic-depiction-of-bees-in-flight-surrounded-by-botanical-elements-and-vibrant-colors-1536x861" id="wows1_1"/></li>
+            <li><img src="{{asset('front/slider/data1/images/asubtleminimalistbeedesignsetagainstasoftpastelbackdropradiatinganairofsimplicityandeleganceperfectforwallpapers1536x861.jpg')}}" alt="A-subtle-minimalist-bee-design-set-against-a-soft-pastel-backdrop-radiating-an-air-of-simplicity-and-elegance-perfect-for-wallpapers-1536x861" title="A-subtle-minimalist-bee-design-set-against-a-soft-pastel-backdrop-radiating-an-air-of-simplicity-and-elegance-perfect-for-wallpapers-1536x861" id="wows1_2"/></li>
+            <li><img src="{{asset('front/slider/data1/images/avibrantwallpaperfeaturingbeesbuzzingaroundawildflowerfieldaddinglivelinessandcheer1536x861.jpg')}}" alt="A-vibrant-wallpaper-featuring-bees-buzzing-around-a-wildflower-field-adding-liveliness-and-cheer-1536x861" title="A-vibrant-wallpaper-featuring-bees-buzzing-around-a-wildflower-field-adding-liveliness-and-cheer-1536x861" id="wows1_3"/></li>
+            <li><img src="{{asset('front/slider/data1/images/avibrantwallpapershowcasingbeesjoyfullybuzzingamidawildflowerfilledfield1536x861.jpg')}}" alt="A-vibrant-wallpaper-showcasing-bees-joyfully-buzzing-amid-a-wildflower-filled-field-1536x861" title="A-vibrant-wallpaper-showcasing-bees-joyfully-buzzing-amid-a-wildflower-filled-field-1536x861" id="wows1_4"/></li>
+            <li><a href="http://wowslider.net"><img src="{{asset('front/slider/data1/images/bee7.jpg')}}" alt="javascript slider" title="bee7" id="wows1_5"/></a></li>
+            <li><img src="{{asset('front/slider/data1/images/beesbuzzingaroundafieldofwildflowerscreatingalivelyandcheerfulscene1536x861.jpg')}}" alt="Bees-buzzing-around-a-field-of-wildflowers-creating-a-lively-and-cheerful-scene-1536x861" title="Bees-buzzing-around-a-field-of-wildflowers-creating-a-lively-and-cheerful-scene-1536x861" id="wows1_6"/></li>
+        </ul></div>
+    <div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap image slider</a> by WOWSlider.com v9.0</div>
+        <div class="ws_shadow"></div>
+        </div>	
+  </section>
